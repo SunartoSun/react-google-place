@@ -1,6 +1,5 @@
 import { geocodeByAddress } from "react-google-places-autocomplete";
-
-export const ADD_RESULT = "ADD_RESULT"
+import { ADD_RESULT } from "../actionTypes";
 
 export const addResult = data => {
     return({

@@ -1,0 +1,2 @@
+export const ADD_RESULT = "ADD_RESULT"
+export const ADD_RESULT_SUCCESS = "ADD_RESULT_SUCCESS"
