@@ -1,0 +1,40 @@
+{
+  "name": "create-react-app",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@googlemaps/react-wrapper": "^1.1.27",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "latest",
+    "google-map-react": "^2.1.10",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-google-places-autocomplete": "^3.3.4",
+    "react-redux": "^7.2.6",
+    "react-scripts": "latest",
+    "redux": "^4.1.2",
+    "redux-observable": "^1.2.0",
+    "redux-thunk": "^2.4.1",
+    "rxjs": "^6.6.7"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
